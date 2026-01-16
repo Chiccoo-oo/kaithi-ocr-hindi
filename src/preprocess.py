@@ -1,8 +1,9 @@
 import cv2
 import os
 
-INPUT_DIR = "../data/raw"
-OUTPUT_DIR = "../data/processed"
+INPUT_DIR = "./data/raw"
+OUTPUT_DIR = "./data/processed"
+
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
