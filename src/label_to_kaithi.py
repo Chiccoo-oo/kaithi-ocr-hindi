@@ -1,3 +1,3 @@
 label_to_kaithi = {
-    "kaithi_a": "अ"
+    "kaithi_a": "𑂃"
 }
